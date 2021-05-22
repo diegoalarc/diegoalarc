@@ -8,17 +8,17 @@
 - [Python](https://courses.spatialthoughts.com/python-foundation.html#what-next)
 - [R](https://ourcodingclub.github.io/tutorials/intro-to-r/)
 
-😄 I am constantly learning since science and codes do not stop!!
-
-I am also learning to work with [Linux](https://www.linux.org/) and other free software such as [QGis](https://qgis.org/de/site/) and [LibreOffice](https://es.libreoffice.org/) among others.
+### 😄 *I am constantly learning since science and codes do not stop!!*
 
 :computer: I'm a fan of [Free Software](https://en.wikipedia.org/wiki/Free_software), but I'm not against [Commercial software](https://en.wikipedia.org/wiki/Commercial_software).
+
+I am also learning to work with [Linux](https://www.linux.org/) and other free software such as [QGis](https://qgis.org/de/site/) and [LibreOffice](https://es.libreoffice.org/) among others.
 
 ## :neckbeard: *My Repositories*
 I hope you visit my [Repositories](https://github.com/diegoalarc?tab=repositories) and give me your opinion. I'll stay tuned to your comments.
 :v::v:
 
-## 📫 *How to contact me?*
+## 📫 *Do you want to know more about me?*
 I invite you to visit my [LinkedIn](https://www.linkedin.com/in/diegoalarc%C3%B3nd%C3%ADaz/) and to contact me!!
 
 ## :trollface: *Some recommendations*
