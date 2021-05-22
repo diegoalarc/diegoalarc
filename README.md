@@ -4,9 +4,9 @@
 
 🌱 Currently I can say that I handle a little more than basic:
 
-- [R](https://ourcodingclub.github.io/tutorials/intro-to-r/)
-- [Python](https://courses.spatialthoughts.com/python-foundation.html#what-next)
 - [Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html)
+- [Python](https://courses.spatialthoughts.com/python-foundation.html#what-next)
+- [R](https://ourcodingclub.github.io/tutorials/intro-to-r/)
 
 😄 I am constantly learning since science and codes do not stop!!
 
