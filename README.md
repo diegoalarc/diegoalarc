@@ -29,6 +29,7 @@ I invite you to visit my [LinkedIn](https://www.linkedin.com/in/diegoalarc%C3%B3
 | - [GeoLatinas](https://geolatinas.weebly.com/) | |
 
 | Other important websites: |
+|---|
 | - [cartografo.cl](https://cartografo.cl/) |
 | - [EAGLE Msc](http://eagle-science.org/) |
 | - [Stackoverflow](https://stackoverflow.com/) |
