@@ -44,7 +44,7 @@ Other important websites:
 - [pythonchile.cl](https://pythonchile.cl/)
 - [SNAP ESA](https://step.esa.int/main/download/snap-download/)
 
-I am also participating in the Spanish community on Slack [Latincoding] (https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw).
+I am also participating in the Spanish community on Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw).
 
 I hope my GitHub is to your liking and we can share more !!
 Greetings!!
