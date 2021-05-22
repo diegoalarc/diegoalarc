@@ -4,9 +4,9 @@
 
 🌱 Currently I can say that I handle the following *__languages/tools__* a little more than *__basic__*:
 
-- [Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html)
-- [Python](https://courses.spatialthoughts.com/python-foundation.html#what-next)
-- [R](https://ourcodingclub.github.io/tutorials/intro-to-r/)
+- __[Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html)__
+- __[Python](https://courses.spatialthoughts.com/python-foundation.html#what-next)__
+- __[R](https://ourcodingclub.github.io/tutorials/intro-to-r/)__
 
 ### 😄 *I am constantly learning since science and codes do not stop!!*
 
@@ -15,7 +15,7 @@
 I am also learning to work with [Linux](https://www.linux.org/) and other free software such as [QGis](https://qgis.org/de/site/) and [LibreOffice](https://es.libreoffice.org/) among others.
 
 ## :neckbeard: *My Repositories*
-I hope you visit my [Repositories](https://github.com/diegoalarc?tab=repositories) and give me your opinion. I'll stay tuned to your comments.
+I hope you visit my *__[Repositories](https://github.com/diegoalarc?tab=repositories)__* and give me your opinion. I'll stay tuned to your comments.
 :v::v:
 
 ## 📫 *Do you want to know more about me?*
