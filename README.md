@@ -28,14 +28,14 @@ I invite you to visit my [LinkedIn](https://www.linkedin.com/in/diegoalarc%C3%B3
 | - [Statistics Globe](https://statisticsglobe.com/) | - [Sci-hub](https://sci-hub.se/), because science should be for everyone!! | - [Udemy](https://www.udemy.com/) |
 | - [GeoLatinas](https://geolatinas.weebly.com/) | |
 
-Other important websites:
-- [cartografo.cl](https://cartografo.cl/)
-- [EAGLE Msc](http://eagle-science.org/)
-- [Stackoverflow](https://stackoverflow.com/)
-- [AniMove](https://animove.org/)
-- [cartografia.cl](http://sitio.cartografia.cl/)
-- [pythonchile.cl](https://pythonchile.cl/)
-- [SNAP ESA](https://step.esa.int/main/download/snap-download/)
+| Other important websites: |
+| - [cartografo.cl](https://cartografo.cl/) |
+| - [EAGLE Msc](http://eagle-science.org/) |
+| - [Stackoverflow](https://stackoverflow.com/) |
+| - [AniMove](https://animove.org/) |
+| - [cartografia.cl](http://sitio.cartografia.cl/) |
+| - [pythonchile.cl](https://pythonchile.cl/) |
+| - [SNAP ESA](https://step.esa.int/main/download/snap-download/) |
 
 I am also participating in the Spanish community on Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw).
 
