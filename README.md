@@ -10,6 +10,10 @@
 
 😄 I am constantly learning since science and codes do not stop!!
 
+I am also learning to work with [Linux](https://www.linux.org/) and other free software such as [QGis](https://qgis.org/de/site/) and [LibreOffice](https://es.libreoffice.org/) among others.
+
+:computer: I'm a fan of [Free Software](https://en.wikipedia.org/wiki/Free_software), but I'm not against [Commercial software](https://en.wikipedia.org/wiki/Commercial_software).
+
 ## :neckbeard: *My Repositories*
 I hope you visit my [Repositories](https://github.com/diegoalarc?tab=repositories) and give me your opinion. I'll stay tuned to your comments.
 :v::v:
@@ -38,7 +42,7 @@ I invite you to visit my [LinkedIn](https://www.linkedin.com/in/diegoalarc%C3%B3
 | - [pythonchile.cl](https://pythonchile.cl/) |
 | - [SNAP ESA](https://step.esa.int/main/download/snap-download/) |
 
-I am also participating in the Spanish community on Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw).
+I am also participating in the Spanish :es: community on Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw).
 
 ### *I hope you like my GitHub and we can share more!!*
 ### *Greetings!!*
