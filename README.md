@@ -40,8 +40,8 @@ I invite you to visit my [LinkedIn](https://www.linkedin.com/in/diegoalarc%C3%B3
 
 I am also participating in the Spanish community on Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw).
 
-I hope my GitHub is to your liking and we can share more !!
-Greetings!!
+### *I hope you like my GitHub and we can share more!!*
+### *Greetings!!*
 
 <!--
 **diegoalarc/diegoalarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
