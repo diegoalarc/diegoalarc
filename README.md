@@ -20,24 +20,13 @@ I invite you to visit my [LinkedIn](https://www.linkedin.com/in/diegoalarc%C3%B3
 ## :trollface: *Some recommendations*
 :construction: This is always under construction :construction:
 
-Coding clubs:
-- [Wageningen University & Research](https://geoscripting-wur.github.io/)
-- [Edinburgh Coding Club](https://ourcodingclub.github.io/)
-- [Spatial Thoughts](https://spatialthoughts.com/)
-- [Statistics Globe](https://statisticsglobe.com/)
-- [GeoLatinas](https://geolatinas.weebly.com/)
-
-Search for academic information:
-- [Scholar google](https://scholar.google.com/)
-- [Researchgate](https://www.researchgate.net/)
-- [Web of Science](https://login.webofknowledge.com/error/Error?Error=IPError&PathInfo=%2F&RouterURL=https%3A%2F%2Fwww.webofknowledge.com%2F&Domain=.webofknowledge.com&Src=IP&Alias=Wrc=IP&Alias=W)
-- [Sci-hub](https://sci-hub.se/), because science should be for everyone!!
-
-Learning coding:
-- [council.cl/cursos/python-de-cero-a-experto](https://council.cl/cursos/python-de-cero-a-experto/)
-- [mineduc.cl/lenguajesdigitales/phyton.html-lex.europa.eu](https://sitios.mineduc.cl/lenguajesdigitales/phyton.html)
-- [R-bloggers](https://www.r-bloggers.com/)
-- [Udemy](https://www.udemy.com/)
+| Coding clubs: | Search for academic information: | Learning coding: |
+|---|---|---|
+| - [Wageningen University & Research](https://geoscripting-wur.github.io/) |- [Scholar google](https://scholar.google.com/) | - [python-de-cero-a-experto](https://council.cl/cursos/python-de-cero-a-experto/) |
+| - [Edinburgh Coding Club](https://ourcodingclub.github.io/) | - [Researchgate](https://www.researchgate.net/) | - [mineduc.cl-phyton](https://sitios.mineduc.cl/lenguajesdigitales/phyton.html) |
+| - [Spatial Thoughts](https://spatialthoughts.com/) | - [Web of Science](https://login.webofknowledge.com/error/Error?Error=IPError&PathInfo=%2F&RouterURL=https%3A%2F%2Fwww.webofknowledge.com%2F&Domain=.webofknowledge.com&Src=IP&Alias=Wrc=IP&Alias=W) | - [R-bloggers](https://www.r-bloggers.com/) |
+| - [Statistics Globe](https://statisticsglobe.com/) | - [Sci-hub](https://sci-hub.se/), because science should be for everyone!! | - [Udemy](https://www.udemy.com/) |
+| - [GeoLatinas](https://geolatinas.weebly.com/) | |
 
 Other important websites:
 - [cartografo.cl](https://cartografo.cl/)
