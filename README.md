@@ -2,7 +2,7 @@
 
 🔭 I am a [Chilean](https://en.wikipedia.org/wiki/Chile) passionate about codes and the possibilities that this can generate for all of us in our future. I am also a [surveying engineer](http://www.geomensura.usach.cl/) and I am currently in Germany studying the [EAGLE Master](http://eagle-science.org/).
 
-🌱 Currently I can say that I handle a little more than basic:
+🌱 Currently I can say that I handle the following *__languages/tools__* a little more than *__basic__*:
 
 - [Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html)
 - [Python](https://courses.spatialthoughts.com/python-foundation.html#what-next)
@@ -19,7 +19,7 @@ I hope you visit my [Repositories](https://github.com/diegoalarc?tab=repositorie
 :v::v:
 
 ## 📫 *Do you want to know more about me?*
-I invite you to visit my [LinkedIn](https://www.linkedin.com/in/diegoalarc%C3%B3nd%C3%ADaz/) and to contact me!!
+I invite you to visit my *__[LinkedIn](https://www.linkedin.com/in/diegoalarc%C3%B3nd%C3%ADaz/)__* and to contact me!!
 
 ## :trollface: *Some recommendations*
 :construction: This is always under construction :construction:
@@ -42,7 +42,7 @@ I invite you to visit my [LinkedIn](https://www.linkedin.com/in/diegoalarc%C3%B3
 | - [pythonchile.cl](https://pythonchile.cl/) |
 | - [SNAP ESA](https://step.esa.int/main/download/snap-download/) |
 
-I am also participating in the Spanish :es: community on Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw).
+I am also participating in the Spanish :es: community on *__[Slack Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw)__*.
 
 ### *I hope you like my GitHub and we can share more!!*
 ### *Greetings!!*
