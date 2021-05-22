@@ -10,8 +10,12 @@
 
 😄 I am constantly learning since science and codes do not stop!!
 
+## :neckbeard: *My Repositories*
+I hope you visit my [Repositories](https://github.com/diegoalarc?tab=repositories) and give me your opinion. I'll stay tuned to your comments.
+:v::v:
+
 ## 📫 *How to contact me?*
-I invite you to visit my [LinkedIn](https://www.linkedin.com/in/diegoalarc%C3%B3nd%C3%ADaz/) and to contact me !!
+I invite you to visit my [LinkedIn](https://www.linkedin.com/in/diegoalarc%C3%B3nd%C3%ADaz/) and to contact me!!
 
 ## :trollface: *Some recommendations*
 :construction: This is always under construction :construction:
