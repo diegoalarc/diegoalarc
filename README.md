@@ -63,8 +63,8 @@ Here are some ideas to get you started:
 -->
 ---
 
-<sub><sup>__Disclaimer__<sub> <sup>
-<sub><sup> - Not all tools shown and / or commented on will be discussed on the GitHub and / or Slack channel. We only want to disseminate and deliver free information (found on the internet) for the world of Geosciences. <sub><sup>
-<sub><sup> - In no case do I support piracy or anything related to it. From the above we can say that I do not agree with [Sci-hub](https://sci-hub.se/) and its way of bringing science closer, free for all. I only recommend it as an example :wink:. <sub><sup>
-<sub><sup> - These are only recommendations for free access, which does not imply that the paid software is not of very high quality. <sub><sup>
+##### __Disclaimer__
+###### - Not all tools shown and / or commented on will be discussed on the GitHub and / or Slack channel. I only want to disseminate and deliver free information (found on the internet) for the world of Geosciences.
+###### - In no case do I support piracy or anything related to it. From the above we can say that I do not agree with [Sci-hub](https://sci-hub.se/) and its way of bringing science closer, free for all. I only recommend it as an example :wink:.
+###### - These are only recommendations for free access, which does not imply that the paid software is not of very high quality.
 ---
