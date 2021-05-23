@@ -24,7 +24,7 @@ I invite you to visit my *__[LinkedIn](https://www.linkedin.com/in/diegoalarc%C3
 ## :trollface: *Some recommendations*
 :construction: This is always under construction :construction:
 
-| Coding clubs: | Search for academic information: | Learning coding: |
+| *Coding clubs:* | *Academic information:* | *Learning coding:* |
 |----|----|----|
 | [Wageningen University](https://geoscripting-wur.github.io/) |[Scholar google](https://scholar.google.com/) | [python-de-cero-a-experto](https://council.cl/cursos/python-de-cero-a-experto/) |
 | [Edinburgh Coding Club](https://ourcodingclub.github.io/) | [Researchgate](https://www.researchgate.net/) | [mineduc.cl-phyton](https://sitios.mineduc.cl/lenguajesdigitales/phyton.html) |
@@ -32,7 +32,7 @@ I invite you to visit my *__[LinkedIn](https://www.linkedin.com/in/diegoalarc%C3
 | [Statistics Globe](https://statisticsglobe.com/) | [Sci-hub](https://sci-hub.se/) | [Udemy](https://www.udemy.com/) |
 | [GeoLatinas](https://geolatinas.weebly.com/) | |
 
-| Other websites: |
+| *Other websites:* |
 |----|
 | [cartografo.cl](https://cartografo.cl/) |
 | [EAGLE Msc](http://eagle-science.org/) |
@@ -44,7 +44,7 @@ I invite you to visit my *__[LinkedIn](https://www.linkedin.com/in/diegoalarc%C3
 
 I am also participating in the *__Spanish__* :es: community on *__[Slack Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw)__*.
 
-### *I hope you like my GitHub and we can share more!!*
+### *I hope you like my __GitHub__ and we can share more!!*
 ### *Greetings!!*
 
 <!--
