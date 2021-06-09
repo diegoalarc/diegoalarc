@@ -8,7 +8,7 @@
 - __[Python](https://courses.spatialthoughts.com/python-foundation.html#what-next)__
 - __[R](https://ourcodingclub.github.io/tutorials/intro-to-r/)__
 
-#### 😄 *I am constantly learning since science and codes do not stop!!*
+#### 😄 *I am constantly learning since science and coding do not stop!!*
 
 :computer: I'm a fan of *__[Free Software](https://en.wikipedia.org/wiki/Free_software)__*, but I'm not against *__[Commercial software](https://en.wikipedia.org/wiki/Commercial_software)__*.
 
