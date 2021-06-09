@@ -1,6 +1,6 @@
 ## 😄 *Hi, I'm Diego Alarcón.*
 
-🔭 I am a *__[Chilean](https://en.wikipedia.org/wiki/Chile)__* passionate about codes and the possibilities that this can generate for all of us in our future. I am also a *__[surveying engineer](http://www.geomensura.usach.cl/)__* and I am currently in Germany studying the *__[EAGLE Master](http://eagle-science.org/)__*.
+🔭 I am a *__[Chilean](https://en.wikipedia.org/wiki/Chile)__* passionate about *__coding__* and the possibilities that this can generate for all of us in our future. I am also a *__[surveying engineer](http://www.geomensura.usach.cl/)__* and I am currently in Germany studying the *__[EAGLE Master](http://eagle-science.org/)__*.
 
 🌱 Currently I can say that I handle the following *__languages/tools__* a little more than *__basic__*:
 
