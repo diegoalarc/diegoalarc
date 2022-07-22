@@ -10,8 +10,6 @@
 
 #### 😄 *I am constantly learning since science and coding do not stop!!*
 
-:computer: I'm a fan of *__[Free Software](https://en.wikipedia.org/wiki/Free_software)__*, but I'm not against *__[Commercial software](https://en.wikipedia.org/wiki/Commercial_software)__*.
-
 I am also learning to work with *__[Linux](https://www.linux.org/)__* and other free software such as *__[QGis](https://qgis.org/de/site/)__* and *__[LibreOffice](https://es.libreoffice.org/)__* among others.
 
 ## :neckbeard: *My Repositories*
